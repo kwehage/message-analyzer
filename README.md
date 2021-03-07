@@ -1,5 +1,6 @@
 # Generate report of emails and text messages
-
+Generate a summary report of emails and text messages using protonmail 
+encrypted email service and Signal messenger
 
 ## Backing up Signal messages
 To backup data from signal, go to `Settings` -> `Chats` -> `Chat Backups` -> `Turn On`
